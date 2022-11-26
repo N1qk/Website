@@ -1,0 +1,78 @@
+.titlu-h3 {
+			background-color: red;
+			color: rgb(145, 13, 13);
+			font-size 18px;
+		}
+		.paragraf {
+			font-size: 18px;
+			color: rgb(189, 38, 40);
+		}
+		.Imagee {
+			display: block;
+			width: 30%;
+			height: auto;
+			margin-bottom: 20px;
+		}
+		.Gallery {
+			display: flex;
+			width: 100vw;
+			flex-wrap: wrap;
+			justify-content: space-between;
+		}
+
+		.table1, 
+		.table1 tr, 
+		.table1 td, 
+		.table1 th {
+			border: 3px solid red;
+			border-collapse: collapse;
+			color: rgb(184, 26, 34);
+
+		}
+.words {
+	background-color: rgb(184, 26, 34);
+}		
+#cuvinte {
+	background-color: rgb(224, 7, 18);
+}
+
+.stack {
+	display: flex;
+	justify-content: space-between;
+}
+.card {
+	width: 33%
+	background-color: red;
+}
+.card h2 {
+	text-align: center;
+}
+.card img {
+	width: 100%
+	height: auto;
+	padding: 0 5px;
+}	
+
+.parent {
+	background-color: rgb(179, 0, 0);
+	width: 100%;
+	height: auto;
+}
+.child {
+    background-color: rgb(209, 0, 0);
+    width: 200px;
+    height: 200px;
+    margin: 20px; 
+}
+
+.puppy {
+	background-color: rgb(253, 0, 0);
+	width: 150px;
+	height: 59px;
+}
+.puppy-padding {
+	padding: 50px;
+	border: 20px solid red;
+	margin-left: 30px;
+
+}
